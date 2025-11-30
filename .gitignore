@@ -1,0 +1,19 @@
+# Node / React Native
+node_modules/
+android/
+ios/
+.expo/
+*.log
+.env
+
+# Python / FastAPI
+__pycache__/
+*.pyc
+.env
+*.sqlite3
+venv/
+
+.env
+__pycache__/
+*.pyc
+node_modules/
